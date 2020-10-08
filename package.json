@@ -1,0 +1,9 @@
+{
+  "name": "node-grpc-mutual-auth-example",
+  "author": "James Sherwood-Jones <james.sherwoodjones@gmail.com> / Walter Scarano <walterscarano@outlook.com>",
+  "description": "A basic example of mutual authentication in GRPC.",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.4.0",
+    "grpc": "^1.18.0"
+  }
+}
